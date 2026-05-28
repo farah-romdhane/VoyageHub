@@ -92,18 +92,30 @@ Chaque tuile contient :
 
 # Structure du projet
 
+
 Projet1-3225/
 │
+
 ├── css/
+
 ├── js/
+
 ├── php/
+
 ├── sql/
-│   └── schema.sql
+
+  │   └── schema.sql
+  
 ├── accueil.php
+
 ├── connexion.php
+
 ├── inscription.php
+
 ├── client.php
+
 └── README.md
+
 
 ---
 
