@@ -94,33 +94,61 @@ Chaque tuile contient :
 
 
 VOYAGEHUB/
+
 │
+
 ├── api/
-│   ├── voyage_create.php
-│   ├── voyage_delete.php
-│   ├── voyage_list.php
-│   └── voyage_update.php
+
+│     ├── voyage_create.php
+
+│     ├── voyage_delete.php
+
+│     ├── voyage_list.php
+
+│     └── voyage_update.php
+
 │
+
 ├── images/
-│   ├── aventure.png
-│   ├── culture.png
-│   ├── detente.png
-│   ├── SC.jpg
-│   └── urbaine.png
+
+│     ├── aventure.png
+
+│     ├── culture.png
+
+│     ├── detente.png
+
+│     ├── SC.jpg
+
+│     └── urbaine.png
+
 │
+
 ├── sql/
+
 │   └── schema.sql
+
 │
+
 ├── accueil.php
+
 ├── appScript.js
+
 ├── client.php
+
 ├── clientInitial.php
+
 ├── connexion.php
+
 ├── deconnexion.php
+
 ├── infos_installationlinux.md
+
 ├── inscription.php
+
 ├── README.md
+
 ├── style.css
+
 └── traitement.php
 
 ---
