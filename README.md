@@ -93,29 +93,35 @@ Chaque tuile contient :
 # Structure du projet
 
 
-Projet1-3225/
+VOYAGEHUB/
 │
-
-├── css/
-
-├── js/
-
-├── php/
-
+├── api/
+│   ├── voyage_create.php
+│   ├── voyage_delete.php
+│   ├── voyage_list.php
+│   └── voyage_update.php
+│
+├── images/
+│   ├── aventure.png
+│   ├── culture.png
+│   ├── detente.png
+│   ├── SC.jpg
+│   └── urbaine.png
+│
 ├── sql/
-
-  │   └── schema.sql
-  
+│   └── schema.sql
+│
 ├── accueil.php
-
-├── connexion.php
-
-├── inscription.php
-
+├── appScript.js
 ├── client.php
-
-└── README.md
-
+├── clientInitial.php
+├── connexion.php
+├── deconnexion.php
+├── infos_installationlinux.md
+├── inscription.php
+├── README.md
+├── style.css
+└── traitement.php
 
 ---
 
